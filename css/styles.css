@@ -1,0 +1,172 @@
+body {
+	background-color: #1B212F;
+	color: #fff;
+	text-align: center;
+}
+
+/*Header Section*/
+@media (min-width: 992px) {
+	#title h1 {
+		padding: 1% 19%;
+	}
+
+}
+#header {
+	padding: 2% 2%;
+}
+
+/*Title Section*/
+#title {
+	padding: 2% 0%;
+}
+#title img {
+	width: 60%;
+}
+#title p {
+	padding: 0% 20%; 
+}
+#title h1 {
+	
+}
+.myButton {
+	background-color:#40aecf;
+	border-radius:25px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:8px 65px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	text-decoration: none;
+	color: #fff;
+	background-color:#d793db;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+/*Features Section*/
+#features {
+	padding: 10% 0% 3%;
+}
+#features p {
+	padding: 1% 10%;
+}
+
+#features img {
+	padding: 2% 2%;
+}
+
+/*Productive Section*/
+#productive {
+	padding: 5% 4%;
+	text-align: left;
+}
+#productive p {
+	padding-right: 15%;
+}
+#productive h1 {
+	padding-top: 10%;
+
+}
+
+.stay {
+	width: 90%;
+}
+
+/*Profile Section*/
+#profile {
+	padding:2% 0%;
+	text-align: left;
+}
+.quotes {
+	width: 5%;
+	z-index: -1;
+	position: relative;
+	right: 540px;
+	top: 40px;
+
+}
+.sbi {
+	margin: 1% 0% 4%;
+	background-color: #21293C;
+	padding: 5% 8%;
+}
+#profile img {
+	margin-right: 2%; 
+	float:left ;
+	width: 12%;
+	border-radius: 100%;
+}
+
+/*Footer Section*/
+#sub-footer {
+	padding: 5% 30% 5%;
+	text-align: left;
+	position: relative;
+	z-index: 1;
+	top: 200px;
+}
+.early {
+	padding: 5%;
+	background-color: #21293C;
+}
+.form-control {
+	border-radius: 25px;
+	border-color: none;
+}
+.myButton1 {
+	background-color:#40aecf;
+	border-radius:25px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:8px 40px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton1:hover {
+	text-decoration: none;
+	color: #fff;
+	background-color:#d793db;
+}
+.myButton1:active {
+	position:relative;
+	top:1px;
+}
+
+
+/*Footer Section*/
+#Footer {
+	background-color: #0C1524;
+	padding: 15% 5% 5%;
+	text-align: left;
+	z-index: -1;
+	position:relative;
+}
+.feather {
+	background-color: #fff;
+	padding: 3%;
+}
+.logo {
+	padding: 4% 0%;
+}
+@media (max-width: 768px) {
+	#title h1 {
+		
+	}
+	
+}
+
+
+
+
