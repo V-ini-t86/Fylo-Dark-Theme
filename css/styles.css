@@ -148,10 +148,8 @@ body {
 /*Footer Section*/
 #Footer {
 	background-color: #0C1524;
-	padding: 15% 5% 5%;
+	padding: 3% 5% 5%;
 	text-align: left;
-	z-index: -1;
-	position:relative;
 }
 .feather {
 	background-color: #fff;
